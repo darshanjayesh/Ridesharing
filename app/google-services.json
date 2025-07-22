@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "970539426115",
+    "firebase_url": "https://ridepal-a02e6-default-rtdb.firebaseio.com",
+    "project_id": "ridepal-a02e6",
+    "storage_bucket": "ridepal-a02e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970539426115:android:049d6f4fec6caf1e6c4ff6",
+        "android_client_info": {
+          "package_name": "com.darshan.ridesharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSWKq1S5D9tgu4Xq3huFCtbFeArdDipgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

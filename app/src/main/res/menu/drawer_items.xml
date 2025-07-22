@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navCal"
+        android:title="Calculator"
+        android:icon="@drawable/calculate"
+        />
+    <item
+        android:id="@+id/navProfile"
+        android:title="Profile"
+        android:icon="@drawable/profilelogo"
+        />
+    <item
+        android:id="@+id/navAbout"
+        android:title="About Us"
+        android:icon="@drawable/about"
+        />
+</menu>
